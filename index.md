@@ -4,10 +4,14 @@ layout: default
 
 # Studies
 
-* *Master's degree* in **Learning and optimisation of complex systems** (*Apprentissage et optimisation des systèmes complexes*)
-At the **UTC** (*Université de Technologie de Compiègne)
+* *Master's degree* in **Learning and optimisation of complex systems** 
+
+(**UTC** : *Université de Technologie de Compiègne, french grande école)
+
+* *Engineering degree* in *computer science*, **Data mining** option
 
 
+(**UTC** : *Université de Technologie de Compiègne, french grande école)
 
 ## Header 2
 
