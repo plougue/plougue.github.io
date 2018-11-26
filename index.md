@@ -4,14 +4,11 @@ layout: default
 
 # Studies
 
+
+Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
+
 * *Master's degree* in **Learning and optimisation of complex systems** 
-
-(**UTC** : *Université de Technologie de Compiègne, french grande école)
-
-* *Engineering degree* in *computer science*, **Data mining** option
-
-
-(**UTC** : *Université de Technologie de Compiègne, french grande école)
+* *Engineering degree* in *computer science*, **Data mining** option, **mathematical modelisation** label
 
 ## Header 2
 
