@@ -23,7 +23,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </a>
 </p>
 * 2018-2019 : **Master's degree** in ***learning and optimisation of complex systems*** 
-* 2013-2018 : **Engineering degree** in *computer science*, ***data mining*** option, ***mathematical modelisation*** label
+* 2013-2018 : **Engineering degree** in *computer science*, ***data mining*** option, ***mathematical modeling*** label
 
 *(non-official list of courses and grades : <a href='documents/courses_fr.pdf'>FR</a> \| EN)*
 
@@ -32,14 +32,17 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Optimisation
 * Uncertain reasoning
 * Stochastic processes and systems
-* Mathematical modelling
+* Mathematical modeling
 * Formal theory of computer science (complexity, algorithms)
 
 # Projects
 
+*Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
+
+
 ## Professional
 
-* **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
+* **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modeling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
 
 
 <p align="center">
@@ -52,18 +55,21 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 ## Machine learning class projects
 
 * [Classification project](https://github.com/plougue/Classification-project-2018) (2018)
-* [Unsupervised analysis]() (2018)
-* [Classification project]() (2017)
+* **Unsupervised analysis** (2018)
+* **Classification project** (2017)
 
-## Mathematical modelisation scripts
+## Mathematical modeling scripts
+*Most of these were made during class projects and practicals using [scilab](https://www.scilab.org/) or matlab*
+* **Introduction to mathematical modeling** (2015) : fractal modelisation, differential equations, spectral analysis, svd, optimisation, fourier decomposition
+* **Linear programming projects in XPress-MP** (2016) 
 
-* A
-* Whole
-* Lot
-* Of
-* Math
+## Miscellaneous (academic)
 
-## Miscellaneous
-* Python platform game prototype made with pygame on my spare time  ([github link](https://github.com/plougue/O_Platformer))
-* Several small arcade games made in C using SDL
+* [Prolog khan game with logic-based symbolic AI](https://github.com/plougue/Prolog-khan) (2016)
+* [C++ object oriented calculator](https://github.com/plougue/Cpp-calculator) (2016)
+* **SQL and PHP powered dynamic tutorial hosting website** (backend) (2015)
+
+## Miscellaneous (spare time)
+* [Python platform game prototype](https://github.com/plougue/O_Platformer) made with pygame (2017) 
+* Several small arcade games made in C using SDL (very old)
 
