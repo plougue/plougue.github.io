@@ -23,7 +23,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </a>
 </p>
 * 2018-2019 : **Master's degree** in ***learning and optimisation of complex systems*** 
-* 2013-2018 : **Engineering degree** in *computer science*, ***data mining*** option, ***mathematical modeling*** label
+* 2013-2018 : **Engineering degree** in *computer science*, ***data mining*** option, ***mathematical modelling*** label
 
 *(non-official list of courses and grades : <a href='documents/courses_FR.pdf'>FR</a> \| EN)*
 
@@ -32,8 +32,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Optimisation
 * Uncertain reasoning
 * Stochastic processes and systems
-* Mathematical modeling
-* Formal theory of computer science (complexity, algorithms)
+* Mathematical modelling
 
 # Projects
 
@@ -42,7 +41,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 
 ## Professional
 
-* **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modeling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
+* **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
 
 
 <p align="center">
@@ -58,9 +57,9 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * **Unsupervised analysis** (2018)
 * **Classification project** (2017)
 
-## Mathematical modeling scripts
+## Mathematical modelling scripts
 *Most of these were made during class projects and practicals using [scilab](https://www.scilab.org/) or matlab*
-* **Introduction to mathematical modeling** (2015) : fractal modelisation, differential equations, spectral analysis, svd, optimisation, fourier decomposition
+* **Introduction to mathematical modelling** (2015) : fractal modelisation, differential equations, spectral analysis, svd, optimisation, fourier decomposition
 * **Linear programming projects in XPress-MP** (2016) 
 
 ## Miscellaneous (academic)
