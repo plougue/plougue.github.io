@@ -25,7 +25,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * 2018-2019 : **Master's degree** in ***learning and optimisation of complex systems*** 
 * 2013-2018 : **Engineering degree** in *computer science*, ***data mining*** option, ***mathematical modeling*** label
 
-*(non-official list of courses and grades : <a href='documents/courses_fr.pdf'>FR</a> \| EN)*
+*(non-official list of courses and grades : <a href='documents/courses_FR.pdf'>FR</a> \| EN)*
 
 # Research interests
 * Machine learning
