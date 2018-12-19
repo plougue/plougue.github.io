@@ -30,7 +30,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 # Research interests
 * Machine learning
 * Optimisation
-* Uncertain reasoning
+* Uncertain reasoning and decision theory
 * Stochastic processes and systems
 * Mathematical modelling
 
