@@ -16,11 +16,11 @@ layout: default
 <a href="#studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
 <a href="#professional-experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
 <a href="#research-interests"><img src="images/Logos/science.svg" width="3.7%" /> Research interests</a> |
-<a href="#projects"><img src="images/Logos/projects.svg" width="3.4%" /> Projects</a>
+<a href="#projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
 
 
 
-# Studies
+# <img src="images/Logos/etudes.svg" width="8%" /> Studies
 
 Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
 
@@ -35,7 +35,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 *(non-official list of courses and grades : <a href='documents/courses_FR.pdf'>FR</a> \| EN)*
 
 
-# Professional Experience
+# <img src="images/Logos/travail.svg" width="6.6%" /> Professional Experience
 
 * **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
 * **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
@@ -47,14 +47,14 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </a>
 </p>
 
-# Research interests
+# <img src="images/Logos/science.svg" width="7.4%" /> Research interests
 * Machine learning
 * Optimisation
 * Uncertain reasoning and decision theory
 * Stochastic processes and systems
 * Mathematical modelling
 
-# Projects
+# <img src="images/Logos/projects.svg" width="7.2%" /> Projects
 
 *Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
 
