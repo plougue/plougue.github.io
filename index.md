@@ -13,7 +13,7 @@ layout: default
 * Github account : [plougue](https://github.com/plougue/)
 
 
-<a href="#studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
+<a href="#studies" style="margin-right:30px;"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
 <a href="#experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
 <a href="#research"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> |
 <a href="#projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
