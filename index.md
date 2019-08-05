@@ -13,13 +13,13 @@ layout: default
 * Github account : [plougue](https://github.com/plougue/)
 
 
-<a href="#-studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
-<a href="#-professional-experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
-<a href="#-research-interests"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> |
-<a href="#-projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
+<a href="#studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
+<a href="#experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
+<a href="#research"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> |
+<a href="#projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
 
 
-<hr />
+<hr id="studies"/>
 # <img src="images/Logos/etudes.svg" width="7%" /> Studies
 
 Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
@@ -35,7 +35,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 *(non-official list of courses and grades : <a href='documents/courses_FR.pdf'>FR</a> \| EN)*
 
 
-<hr />
+<hr id="experience"/>
 # <img src="images/Logos/travail.svg" width="5%" /> Professional Experience
 
 * **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
@@ -48,7 +48,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </a>
 </p>
 
-<hr />
+<hr id="research"/>
 # <img src="images/Logos/science.svg" width="5%" /> Research interests
 * Machine learning
 * Optimisation
@@ -56,7 +56,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Stochastic processes and systems
 * Mathematical modelling
 
-<hr />
+<hr id="projects"/>
 # <img src="images/Logos/projects.svg" width="5%" /> Projects
 
 *Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
