@@ -19,7 +19,7 @@ layout: default
 <a href="#projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
 
 
-
+<hr />
 # <img src="images/Logos/etudes.svg" width="8%" /> Studies
 
 Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
@@ -35,6 +35,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 *(non-official list of courses and grades : <a href='documents/courses_FR.pdf'>FR</a> \| EN)*
 
 
+<hr />
 # <img src="images/Logos/travail.svg" width="6.6%" /> Professional Experience
 
 * **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
@@ -47,6 +48,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </a>
 </p>
 
+<hr />
 # <img src="images/Logos/science.svg" width="7%" /> Research interests
 * Machine learning
 * Optimisation
@@ -54,6 +56,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Stochastic processes and systems
 * Mathematical modelling
 
+<hr />
 # <img src="images/Logos/projects.svg" width="7.2%" /> Projects
 
 *Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
