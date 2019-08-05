@@ -13,10 +13,10 @@ layout: default
 * Github account : [plougue](https://github.com/plougue/)
 
 
-<a href="#studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
-<a href="#professional-experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
-<a href="#research-interests"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> |
-<a href="#projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
+<a href="#-studies"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> |
+<a href="#-professional-experience"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> |
+<a href="#-research-interests"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> |
+<a href="#-projects"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
 
 
 <hr />
@@ -49,7 +49,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </p>
 
 <hr />
-# <img src="images/Logos/science.svg" width="7%" /> Research interests
+# <img src="images/Logos/science.svg" width="6%" /> Research interests
 * Machine learning
 * Optimisation
 * Uncertain reasoning and decision theory
@@ -57,7 +57,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Mathematical modelling
 
 <hr />
-# <img src="images/Logos/projects.svg" width="7.2%" /> Projects
+# <img src="images/Logos/projects.svg" width="6.5%" /> Projects
 
 *Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
 
