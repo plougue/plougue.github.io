@@ -29,7 +29,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 
 # Professional Experience
 
-* **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/logoCNRS.eps" width="40%" /> CNRS / <img src="images/Logos/sigle_UTC.eps" width="40%" /> UTC)
+* **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="20%" /> CNRS / <img src="images/Logos/utc.svg" width="20%" /> UTC)
 * **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
 
 
