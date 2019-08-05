@@ -13,10 +13,10 @@ layout: default
 * Github account : [plougue](https://github.com/plougue/)
 
 
-* <a href="#studies">Studies</a>
-* <a href="#professional-experience">Professional Experience</a>
-* <a href="#research-interests">Research interests</a>
-* <a href="#projects">Projects</a>
+<a href="#studies">* Studies</a>
+<a href="#professional-experience">* Professional Experience</a>
+<a href="#research-interests">* Research interests</a>
+<a href="#projects">* Projects</a>
 
 
 
