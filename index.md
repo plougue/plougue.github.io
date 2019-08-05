@@ -20,7 +20,7 @@ layout: default
 
 
 <hr />
-# <img src="images/Logos/etudes.svg" width="8%" /> Studies
+# <img src="images/Logos/etudes.svg" width="7%" /> Studies
 
 Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
 
@@ -36,7 +36,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 
 
 <hr />
-# <img src="images/Logos/travail.svg" width="6.6%" /> Professional Experience
+# <img src="images/Logos/travail.svg" width="5%" /> Professional Experience
 
 * **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
 * **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
@@ -49,7 +49,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 </p>
 
 <hr />
-# <img src="images/Logos/science.svg" width="6%" /> Research interests
+# <img src="images/Logos/science.svg" width="5%" /> Research interests
 * Machine learning
 * Optimisation
 * Uncertain reasoning and decision theory
@@ -57,7 +57,7 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 * Mathematical modelling
 
 <hr />
-# <img src="images/Logos/projects.svg" width="6.5%" /> Projects
+# <img src="images/Logos/projects.svg" width="5%" /> Projects
 
 *Some links in this section may not lead anywhere yet. I am regularly uploading old projects listed here to my github account.*
 
