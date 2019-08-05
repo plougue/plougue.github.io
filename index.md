@@ -12,6 +12,14 @@ layout: default
 * E-mail adress : [guillot.pl@gmail.com](mailto:guillot.pl@gmail.com)
 * Github account : [plougue](https://github.com/plougue/)
 
+
+* <a href="#studies">Studies</a>
+* <a href="#professional-experience">Professional Experience</a>
+* <a href="#research-interests">Research interests</a>
+* <a href="#projects">Projects</a>
+
+
+
 # Studies
 
 Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, french grande école)
