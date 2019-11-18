@@ -38,8 +38,8 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 <hr id="experience"/>
 # <img src="images/Logos/travail.svg" width="5%" /> Professional Experience
 
-### **6 month research internship** 
-Research internship within Heudisayc Laboratory 
+### **6 month research internship**  (Compiègne, France)
+Research internship within <a href='https://www.hds.utc.fr/'>Heudisayc Laboratory</a> 
 (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
 under the supervision of <a href='https://www.hds.utc.fr/~sdesterc/dokuwiki/'>Sebastien Destercke</a>.
 Study of single-user **preference elicitation** methods in the context of multi-criteria decision making (**MCDA**).
@@ -48,11 +48,11 @@ Result: a method for eliciting preferences with uncertain answers and
 some of its theoretical / practical properties.
 Made into two publications :
 
-* Conference <a href='./Documents/ISIPTA_poster.pdf'>**poster**</a>
+* Conference <a href='./documents/ISIPTA_poster.pdf'>**poster**</a>
  (<a href='http://www.isipta2019.ugent.be/contributions/abstract_guillot19.pdf'>**abstract**</a>) (ISIPTA 19)
 * Conference **article** (SUM 19)
 
-### **6 month internship in engineering**
+### **6 month internship in engineering** (Lyon, France)
 Complete and successfull integration of two benchmarking tools on [Cosmotech](https://cosmotech.com/)'s complex system
 modelling and simulation software.
 C++ development with strong optimisation constraints on core mechanism of the software.
