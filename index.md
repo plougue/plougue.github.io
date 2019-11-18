@@ -8,7 +8,7 @@ layout: default
 * Surname : Pierre-Louis
 * Current location : Compiègne, France
 * Linkedin account : [Pierre-Louis Guillot](https://www.linkedin.com/in/pierre-louis-guillot-4a6750122/)
-* Curriculum vitae (5/08/19) : <a href='documents/CV_french.pdf'>FR</a> \| EN
+* Curriculum vitae (18/10/19) : <a href='documents/CV_french.pdf'>FR</a> \| <a href='documents/CV_english.pdf'>EN</a>
 * E-mail adress : [guillot.pl@gmail.com](mailto:guillot.pl@gmail.com)
 * Github account : [plougue](https://github.com/plougue/)
 
