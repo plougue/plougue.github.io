@@ -44,14 +44,16 @@ Research internship within Heudisayc Laboratory
 under the supervision of <a href='https://www.hds.utc.fr/~sdesterc/dokuwiki/'>Sebastien Destercke</a>.
 Study of single-user **preference elicitation** methods in the context of multi-criteria decision making (**MCDA**).
 Two field of research : **decision theory** and **uncertainty management**. 
-**Promising results** : a method for eliciting preferences with uncertain answers and theoretical / practical properties.
+Result: a method for eliciting preferences with uncertain answers and
+some of its theoretical / practical properties.
 Made into two publications :
 
-* Conference **poster** (**abstract**) (ISIPTA 19)
+* Conference <a href='./Documents/ISIPTA_poster.pdf'>**poster**</a>
+ (<a href='http://www.isipta2019.ugent.be/contributions/abstract_guillot19.pdf'>**abstract**</a>) (ISIPTA 19)
 * Conference **article** (SUM 19)
 
 ### **6 month internship in engineering**
-Complete and successfull integration of two benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system
+Complete and successfull integration of two benchmarking tools on [Cosmotech](https://cosmotech.com/)'s complex system
 modelling and simulation software.
 C++ development with strong optimisation constraints on core mechanism of the software.
 
