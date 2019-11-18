@@ -39,13 +39,18 @@ Double-diploma at the **UTC** (*Université de Technologie de Compiègne*, frenc
 # <img src="images/Logos/travail.svg" width="5%" /> Professional Experience
 
 * **6 month research internship** : Heudisayc Laboratory (<img src="images/Logos/cnrs.svg" width="3.4%" /> CNRS / <img src="images/Logos/utc.svg" width="3.4%" /> UTC)
+
 Study of single-user **preference elicitation** methods in the context of multi-criteria decision making (**MCDA**).
+
 Two field of research : **decision theory** and **uncertainty management**. 
 
 **Promising results** : a method for eliciting preferences with uncertain answers and theoretical / practical properties.
 Made into two publications :
+
     * A conference **poster** (**abstract**) (ISIPTA 19)
+
     * A conference **article** (SUM 19)
+
 * **6 month internship in engineering** : Integration of a benchmarking tool on [Cosmotech](https://cosmotech.com/)'s complex system modelling and simulation software. C++ development with strong optimisation constraints on core mechanism of the software.
 
 
