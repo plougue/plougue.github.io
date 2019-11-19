@@ -51,7 +51,7 @@ Made into two publications :
 * Conference <a href='./documents/ISIPTA_poster.pdf'>**poster**</a>
  (<a href='http://www.isipta2019.ugent.be/contributions/abstract_guillot19.pdf'>**abstract**</a>)
  (<a href='http://www.isipta2019.ugent.be/'>ISIPTA 19</a>)
-* Conference **article** 
+* Conference <a href='#'>**article**</a> 
  (<a href='https://sum2019.hds.utc.fr/'>SUM 19</a>)
 
 ### **6 month internship in engineering** (Lyon, France)
