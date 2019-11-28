@@ -81,7 +81,6 @@ C++ development with strong optimisation constraints on core mechanism of the so
 
 
 ## Machine learning class projects
-__test__
 
 * __Image detection project__ (2018) 
 * [__Classification project__](https://github.com/plougue/Classification-project-2018) (2018) : Analysis of the results of previously studied classification methods (**lda, qda, naïve bayes, log regression, decision trees, ...**) on several binary data sets.
