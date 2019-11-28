@@ -83,7 +83,7 @@ C++ development with strong optimisation constraints on core mechanism of the so
 ## Machine learning class projects
 
 * **Image detection project** (2018) 
-* [Classification project](https://github.com/plougue/Classification-project-2018) (2018) : Analysis of the results of previously studied classification studied in class (lda, qda, naïve bayes, log regression, decision trees, ...) on several binary data sets.
+* [Classification project](https://github.com/plougue/Classification-project-2018) (2018) : Analysis of the results of previously studied classification methods (lda, qda, naïve bayes, log regression, decision trees, ...) on several binary data sets.
 Discussion about why each method did or did not work according to charasteristics of the data sets such as sample size, number of features, overall shape of the data or any other tool of unsupervised analysis. 
 Study of an adaptation of dicriminant anylisis for binary variable, proof of the solution to the optimisation problem for finding the parameter of maximum likelihood. Application of this method to concrete data sets. Interpretation of the results when compared to other discriminant analysis methods.
 * **Unsupervised analysis project** (2018) : Use clustering and unsupervised analysis methods described below to analyse a real-life data set. Theoretical study of an adptation of K-means clustering in which the distance to the center depends on the covariance matrix of each class. Implementation of this adapted K-means method on a concrete case. Application of this method to concrete data sets. Proof of the solution to the optimisation problem corresponding to this new way of computing distance to the center.
