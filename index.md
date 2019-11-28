@@ -83,9 +83,10 @@ C++ development with strong optimisation constraints on core mechanism of the so
 ## Machine learning class projects
 
 * [Classification project](https://github.com/plougue/Classification-project-2018) (2018)
-* **Unsupervised analysis** (2018)
-* [Classification project](https://github.com/plougue/Classification-project-2017) (2017) : Build 3 classifiers from 3 real-life data sets to perform as well as possible
-* **Machine learning practical work** (2017) : kNN, linear regression, model selection, splines, GAM, EM algorithm
+* **Unsupervised analysis** (2018) : 
+* **Machine learning practical work** (2018) : Theoretically-oriented experiments in R of machine learning concepts : in-depth exploration of pca (computing by hand the values relevan to pca such as the inertia of a cloud of points),  Multidimensional scaling, Hierarchical cluster analysis, k-means, ... 
+* [Classification project](https://github.com/plougue/Classification-project-2017) (2017) : Build 3 classifiers from 3 real-life data sets to perform as well as possible using classification methods described below
+* **Machine learning practical work** (2017) : Theoretical and practical training with classification and regression methods : kNN, linear regression, model selection, splines, GAM, EM algorithm, Gaussian Mixture models, Tree-base methods, Set-based methods, SVM, SVR, kPCA, neural networks, ...
 
 ## Mathematical modelling scripts
 *Most of these were made during class projects and practicals using [scilab](https://www.scilab.org/) or matlab*
