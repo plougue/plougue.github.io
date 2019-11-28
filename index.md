@@ -83,8 +83,8 @@ C++ development with strong optimisation constraints on core mechanism of the so
 ## Machine learning class projects
 
 * [Classification project](https://github.com/plougue/Classification-project-2018) (2018)
-* **Unsupervised analysis** (2018) : 
-* **Machine learning practical work** (2018) : Theoretically-oriented experiments in R of machine learning concepts : in-depth exploration of pca (computing by hand the values relevan to pca such as the inertia of a cloud of points),  Multidimensional scaling, Hierarchical cluster analysis, k-means, ... 
+* **Unsupervised analysis project** (2018) : Use clustering and unsupervised analysis methods described below to analyse a real-life data set. Theoretical study of an adptation of K-means clustering in which the distance to the center depends on the covariance matrix of each class. Implementation of this adapted K-means method on a concrete case. Application of this method to concrete data sets. Proof of the solution to the optimisation problem corresponding to this new way of computing distance to the center.
+* **Machine learning practical work** (2018) : Theoretically oriented experiments in R of machine learning concepts : in-depth exploration of pca (computing by hand the values relevan to pca such as the inertia of a cloud of points),  Multidimensional scaling, Hierarchical cluster analysis, k-means, ... 
 * [Classification project](https://github.com/plougue/Classification-project-2017) (2017) : Build 3 classifiers from 3 real-life data sets to perform as well as possible using classification methods described below
 * **Machine learning practical work** (2017) : Theoretical and practical training with classification and regression methods : kNN, linear regression, model selection, splines, GAM, EM algorithm, Gaussian Mixture models, Tree-base methods, Set-based methods, SVM, SVR, kPCA, neural networks, ...
 
