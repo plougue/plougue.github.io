@@ -82,7 +82,13 @@ C++ development with strong optimisation constraints on core mechanism of the so
 
 ## Machine learning class projects
 
-* __Image detection project__ (2018) 
+* __Image detection project__ (2018): Train two machine learning algorithm to detect faces and bodies using 
+  the corresponding data set.
+  The detection was made using a sliding window technique and classification through **histograms of gradients**
+  and **svm**.  
+  In order to prevent a potentially large number of false positives the training was done twice: first with a
+  classification training set, and then with the same training set in addition to false positives encoutered in our
+  detection test sets.
 * [__Classification project__](https://github.com/plougue/Classification-project-2018) (2018) : Analysis of the results of previously studied classification methods (**lda, qda, naïve bayes, log regression, decision trees, ...**) on several binary data sets.
 Discussion about why each method did or did not work according to charasteristics of the data sets such as sample size, number of features, overall shape of the data or any other tool of unsupervised analysis. 
 Study of an **adaptation of dicriminant analysis for binary variables**, proof of the solution to the optimisation problem for finding the parameter of maximum likelihood. Application of this method to concrete data sets. Interpretation of the results when compared to other discriminant analysis methods.
