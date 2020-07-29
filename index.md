@@ -12,12 +12,14 @@ layout: default
 * E-mail adress : [guillot.pl@gmail.com](mailto:guillot.pl@gmail.com)
 * Github account : [plougue](https://github.com/plougue/)
 
-
-<a href="#studies" style="margin-right:35px;fond-size:20px"><img src="images/Logos/etudes.svg" width="7%" /> Studies</a> 
-<a href="#experience" style="margin-right:35px;"><img src="images/Logos/travail.svg" width="5%" /> Professional Experience</a> 
-<a href="#research" style="margin-right:35px;"><img src="images/Logos/science.svg" width="5%" /> Research interests</a> 
-<a href="#projects" style="margin-right:35px;"><img src="images/Logos/projects.svg" width="5%" /> Projects</a>
-
+<a href="#studies" style="margin-right:145px;font-size:25px"><img src="images/Logos/etudes.svg" width="7%"> Studies</a>
+<a href="#experience" style="margin-right:15px;font-size:25px">
+  <img src="images/Logos/travail.svg" width="5%"> Professional Experience</a> 
+<br>
+<a href="#research" style="margin-right:20px;margin-left:5px;font-size:25px">
+  <img src="images/Logos/science.svg" style="margin-right:6px" width="5%">  Research Interests</a> 
+<a href="#projects" style="margin-right:35px;font-size:25px">
+  <img src="images/Logos/projects.svg" width="5%"> Projects</a>
 
 <hr id="studies"/>
 # <img src="images/Logos/etudes.svg" width="7%" /> Studies
