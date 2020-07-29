@@ -13,10 +13,10 @@ layout: default
 * Github account : [plougue](https://github.com/plougue/)
 
 
-<a href="#studies" style="margin-right:35px;"><img src="images/Logos/etudes.svg" width="4%" /> Studies</a> 
-<a href="#experience" style="margin-right:35px;"><img src="images/Logos/travail.svg" width="3.3%" /> Professional Experience</a> 
-<a href="#research" style="margin-right:35px;"><img src="images/Logos/science.svg" width="3.5%" /> Research interests</a> 
-<a href="#projects" style="margin-right:35px;"><img src="images/Logos/projects.svg" width="3.6%" /> Projects</a>
+<a href="#studies" style="margin-right:35px;"><img src="images/Logos/etudes.svg" width="7%" /> Studies</a> 
+<a href="#experience" style="margin-right:35px;"><img src="images/Logos/travail.svg" width="5%" /> Professional Experience</a> 
+<a href="#research" style="margin-right:35px;"><img src="images/Logos/science.svg" width="5%" /> Research interests</a> 
+<a href="#projects" style="margin-right:35px;"><img src="images/Logos/projects.svg" width="5%" /> Projects</a>
 
 
 <hr id="studies"/>
@@ -82,8 +82,8 @@ C++ development with strong optimisation constraints on core mechanism of the so
 
 ## Machine learning class projects
 
-* __Image detection project__ (2018): Train two machine learning algorithm to detect faces and bodies using 
-  the corresponding data set.
+* __Image detection project__ (2018): Train two machine learning algorithms to detect faces and bodies using 
+  the corresponding data sets.
   The detection was made using a sliding window technique and classification through **histograms of gradients**
   and **svm**.  
   In order to prevent a potentially large number of false positives the training was done twice: first with a
