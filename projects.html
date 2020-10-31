@@ -24,7 +24,8 @@
     color: #889Bff;
 
 }
-.link { cursor:pointer;   text-decoration: underline;}</style>
+.tech { color: black;   font-weight: normal; margin-left:12px;}
+.link { cursor:pointer;   text-decoration: underline; }</style>
 </head>
 
 <body>
@@ -43,7 +44,7 @@
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+					<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt="">	
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>
@@ -71,7 +72,7 @@
 		<div class="container">
 			<h1>Projects</h1>
 			This list of projects aims at giving an idea of what I've done in the past. It is quite exhaustive but I suggest you look at those with a <img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> symbol if any as they are in my opinion the most interesting. <br />
-			<b>Click on project titles for a full description.</b><br />
+			<b style='font-size:24px;'>Click on project titles for a full description.</b><br />
 			<br/>
 			<a href='#ML'><img src='fontawesome-free-5.14.0-web/svgs/regular/chart-bar.svg' style="width:20px;height:20px;margin-right:9px;"/>Machine Learning projects</a>   |  
 			<a href='#DW'><img src='fontawesome-free-5.14.0-web/svgs/solid/database.svg' style="width:15px;height:15px;margin-right:9px;"/>Data warehousing projects</a> |
@@ -87,25 +88,25 @@
 
 			<p class="sample-text">
 				<b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/>
-						<span class='link' onclick="toggleHidden('box_ML_insurance')">Prediction of insurance policy sales</span></b>  <a href='https://github.com/plougue/Insurance-policies-prediction'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2020)<br/> </p>
+						<span class='link' onclick="toggleHidden('box_ML_insurance')">Prediction of insurance policy sales</span></b>  <a href='https://github.com/plougue/Insurance-policies-prediction'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2020) <span class='tech'>[R]</span><br/> </p>
 				<div class='favproject_box' id='box_ML_insurance'>A <a href='documents/insurance_sales_report.pdf'><b><u>thoroughly reported</u></b></a> one week project aiming at predicting wether or not insurances policy proposals lead to a sale based on client data. Did some exploratory analysis of the data. Tried out several classification methods including <b>svm</b>, <b>discriminant analysis</b>, <b>logistic regression</b>,  <b>KNN</b>, <b>CART</b>. Tested them with cross-validation, chose one predictor and explained my choice. Also gave some interpretable insights for decision makers.
 <a href='documents/insurance_sales_report.pdf'>Link the report.</a></div>
 
 			<p class="sample-text">
 				<b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/>
-						<span class='link'  onclick="toggleHidden('box_ML_loneliness')">Loneliness in the UK w.r.t. movement for education</span></b> <a href='https://github.com/plougue/UK-Loneliness-and-Education'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2020)</p>
+						<span class='link'  onclick="toggleHidden('box_ML_loneliness')">Loneliness in the UK w.r.t. movement for education</span></b> <a href='https://github.com/plougue/UK-Loneliness-and-Education'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2020) <span class='tech'>[Python, sklearn, Jupyter, (geo)pandas]</span></p>
 				<div class='favproject_box'  id='box_ML_loneliness'>An investigation to find a relation between loneliness and movement for education within the UK. I tried to use previous work that related the quality of education in a given area to a loneliness index's value. My idea was that <b>local competitiveness</b> in term of educations might be a better indicator of movement for education than the quality of education. I created a metric in which the index for quality of education is divided by the maximum adversary in a given radius. <br />
 Involved a lot of data preprocessing using <b>pandas</b> and <b>geopandas</b>, as well as basic linear regression using <b>sklearn</b> and <b>statsmodel</b> (for residual analysis). The main thing was to find the most relevant available data and analyse the result. All of it is recorded in <b>Jupyter notebooks</b> found in the <a href='https://github.com/plougue/UK-Loneliness-and-Education'>github link</a>. A more complete report/explanation is coming soon. </div>
 
 		
-	<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link'  onclick="toggleHidden('box_ML_practcal')">Machine learning practical works and experiments</a> </b> (2017 - 2019)</span></p>
+	<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link'  onclick="toggleHidden('box_ML_practcal')">Machine learning practical works and experiments</a></b> (2017 - 2019)</span> <span class='tech'>[R, Python, sklearn, Pytorch, Tensorflow]</span></p>
 				<div class='favproject_box'  id='box_ML_practcal'>● Theoretically oriented experiments in R of machine learning concepts : in-depth exploration of <b>pca</b> (computing by hand the values relevant to pca such as the inertia of a cloud of points),  <b>MDS, Hierarchical cluster analysis, k-means, ...</b><br />
 ● Theoretical and practical training with classification and regression methods : <b>kNN, linear regression, model selection, splines, GAM, EM algorithm, Gaussian Mixture models, Tree-base methods, Set-based methods, SVM, SVR, kPCA, neural networks, ...</b><br />
 ● Experiments with deep learning techniques using <b>pytorch</b> and <b>tensorflow</b> : <b>auto-encoders, GANs, image processing</b> (convolution, pooling, padding), <b>NLP</b> (word representation : one-hot, word2vec), <b>transfer learning</b>,<b> RNN</b>.</div>
 
 				<p class="sample-text">
 
-				<b><span class='link'  onclick="toggleHidden('box_ML_bodyface_detection')">Body/Face detection in images</span></b> (2019)<br/> </p>
+				<b><span class='link'  onclick="toggleHidden('box_ML_bodyface_detection')">Body/Face detection in images</span></b> (2019) <span class='tech'>[Python, sklearn, skimage]</span> </p>
 				<div class='project_box' id='box_ML_bodyface_detection'>Trained two machine learning algorithms to detect faces and bodies using 
 				the corresponding data sets.
 				The detection was made using a sliding window technique and classification through <b>histograms of gradients</b>
@@ -113,16 +114,16 @@ Involved a lot of data preprocessing using <b>pandas</b> and <b>geopandas</b>, a
 				classification training set, and then with the same training set in addition to false positives encoutered in our
 				detection test sets.</div>
 			
-				<p class="sample-text"><span class='link'   onclick="toggleHidden('box_ML_binary')"><b>Various binary data sets classification</b></span>  <a href='https://github.com/plougue/Classification-project-2018'><img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> (github)</a> (2018) </p>
+				<p class="sample-text"><span class='link'   onclick="toggleHidden('box_ML_binary')"><b>Various binary data sets classification</b></span>  <a href='https://github.com/plougue/Classification-project-2018'><img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> (github)</a> (2018) <span class='tech'>[R]</span></p>
 				<div class='project_box' id='box_ML_binary'>Purely quantitative analysis of an heterogeneous set of sample data sets including breastcancer data, sonar data, ionosphere data and spam classification. <br/>
 				Explained the results of previously studied classification methods (<b>lda, qda, naïve bayes, log regression, decision trees, ...</b>).
 				Discussed how well methods performed according to characteristics of the data sets such as sample size, number of features, overall shape of the data or any other tool of unsupervised analysis. 
 				Studied an <b>adaptation of dicriminant analysis for binary variables</b>, proved the solution to the optimisation problem for finding the parameter of maximum likelihood. Applied this method to concrete data sets. Interpreted the results when compared to other discriminant analysis methods.</div>
 
-				<p class="sample-text"><span class='link'   onclick="toggleHidden('box_ML_various_unsupervised')"><b>Various data sets unsupervised analysis</b></span>(2018)</p>	
+				<p class="sample-text"><span class='link'   onclick="toggleHidden('box_ML_various_unsupervised')"><b>Various data sets unsupervised analysis</b></span>(2018) <span class='tech'>[R]</span></p>	
 				<div class='project_box' id='box_ML_various_unsupervised'>Analysed the results of <b>PCA</b>, <b>Hierarchical clustering</b> and <b>K-Means</b> on a data sets that relates ingredients rates in recipes of different countries. Theoretically studied an <b>adaptation of K-means clustering in which the distance to the center depends on the covariance matrix</b> of each class. Implementated the adapted K-Means. Proved the solution to the corresponding optimisation problem.  Applied of this method to iris and spam data sets. Explained the results.</div>
 
-				<p class="sample-text"><span class='link' onclick="toggleHidden('box_ML_various_classification')"><b>Various data sets classification</b></span>   <a href='https://github.com/plougue/Classification-project-2017'><img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> (github)</a> (2017) </p>
+				<p class="sample-text"><span class='link' onclick="toggleHidden('box_ML_various_classification')"><b>Various data sets classification</b></span>   <a href='https://github.com/plougue/Classification-project-2017'><img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> (github)</a> (2017) <span class='tech'>[R]</span></p>
 				<div class='project_box' id='box_ML_various_classification'>Purely quantitative analysis of an heterogeneous set of sample data sets including facial expression from images, MNIST and phonemes classification based on pre-processed audio features. Explained the results of previously studied classification methods. 	Discussed how well methods performed according to characteristics of the data sets such as sample size, number of features, overall shape of the data or any other tool of unsupervised analysis. </div>
 
 
@@ -133,15 +134,15 @@ Involved a lot of data preprocessing using <b>pandas</b> and <b>geopandas</b>, a
 
 			<h3 id='DW'>
 				<img src='fontawesome-free-5.14.0-web/svgs/solid/database.svg' style="width:20px;height:25px;margin-right:20px;"/>Data warehousing projects</h3>
-			<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link' onclick="toggleHidden('box_DW_election')">Election results</span></b>  (2018)</p>
+			<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link' onclick="toggleHidden('box_DW_election')">Election results</span></b>  (2018) <span class='tech'>[Python, cassandra]</span></p>
 			<div class='favproject_box' id='box_DW_election'>
 Designed a documented database storing election results from an existing csv file. We used the <b>dimensional approach</b> of data warehousing, by specifying dimensions and their granularity in a UML model. Implemented it in a <b>non-relationnal</b> and <b>column-oriented</b> database using <b>cassandra</b>. Chose a <b>partition key</b> to make the database <b>horizontally scalable</b> while still having reasonable partition sizes. <b>Materialized</b> views of the database in the form of key indicators computed using <b>MapReduce</b> operations. Explained all of our choices in a technical report. <a href='documents/reports/election_report.pdf'>Link the report (in french).</a>
 			</div>
-			<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link' onclick="toggleHidden('box_DW_bookstores')"> Book stores sales</span></b>  (2018)</p>
+			<p class="sample-text"><b><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> <span class='link' onclick="toggleHidden('box_DW_bookstores')"> Book stores sales</span></b>  (2018) <span class='tech'>[Pentaho, BIRT, SQL]</span></p>
 			<div class='favproject_box' id='box_DW_bookstores'>
 Designed a documented datawarehouse storing the sales from different bookstores. Specified the three <b>dimensions</b> (time of sale, book and store) and their granularity in a UML model. Implemented it into a datawarehouse from existing SQL databases using <b>Pentaho</b>. Produced a business intelligence report using <b>BIRT</b>. Explained all of our choices in several technical reports. <a href='documents/reports/bookstores_report.pdf'>Link the first report (in french).</a> <a href='documents/reports/bookstores_report_2.pdf'>Link the second report (in french).</a> 
 			</div>
-			<p class="sample-text"><b><span class='link' onclick="toggleHidden('box_DW_articles')"> Documentary database of articles w/ search engine</span></b> (2018)</p>
+			<p class="sample-text"><b><span class='link' onclick="toggleHidden('box_DW_articles')"> Documentary database of articles w/ search engine</span></b> (2018) <span class='tech'>[PERL, Python, Java, Antlr, XML, SQL]</span></p>
 			<div class='project_box' id='box_DW_articles'>
 			Created a database of articles from various issues of a magazine. Implementated a search engine. Several step process  :<br />
 			● Captured the structure of <b>HTML articles</b> into organized <b>XML files</b> containing their page, magazine number, author, and so on. Used <b>PERL</b> scripts and <b>RegEx</b> to retrieve relevant information within the web pages as well as tool for verifying that the XML files produced were complete and valid.<br />
@@ -151,7 +152,7 @@ Designed a documented datawarehouse storing the sales from different bookstores.
 			● Used a <b>Java</b> programm to create a search engine that transformed queries into SQL queries and gave the results.
 			</div>
 			<p class="sample-text">
-				<img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/>	<span class='link' onclick="toggleHidden('box_DW_tutorial')"><b> Tutorial hosting website</b></span>  (2017)</p>
+				<img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/>	<span class='link' onclick="toggleHidden('box_DW_tutorial')"><b> Tutorial hosting website</b></span>  (2017) <span class='tech'>[PHP, SQL]</span></p>
 				<div class='favproject_box' id='box_DW_tutorial'> Semester project. Consisted in creating a tutorial-hosting PHP/SQL platform previously defined through very precise and complex specifications. Translated the problem into a conceptual schema with <b>UML</b> and translated it into  a <b>relational model</b>. Discussed its <b>normal form</b> and turned it into an <b>SQL database</b> with a PHP interface for queries.  The design was thoroughly reported. Taught me how to translate very theoretical database design knowledge into concrete implementations.
 </div><br/>
 
@@ -160,7 +161,7 @@ Designed a documented datawarehouse storing the sales from different bookstores.
 			<h3 id='CompSci'>
 				<img src='fontawesome-free-5.14.0-web/svgs/solid/code.svg' style="width:25px;height:25px;margin-right:20px;"/>Misc. computer science projects</h3>
 			<p class="sample-text"><img src='fontawesome-free-5.14.0-web/svgs/solid/yellowstar.svg' style="width:20px;height:20px;margin-right:3px;"/> 
-				<span class='link' onclick="toggleHidden('box_CompSci_simulation_internship')"><b>C++ numerical experiments for a research project</b></span> (2019)<br/> </p>
+				<span class='link' onclick="toggleHidden('box_CompSci_simulation_internship')"><b>Numerical experiments for a research project</b></span> (2019) <span class="tech">[C++, GSL]</span><br/> </p>
 				<div class='favproject_box' id='box_CompSci_simulation_internship'>Over the course of my 2019 research internship in <a href='https://www.hds.utc.fr/'>Heudiasyc Laboratory (CNRS)</a>, I studied strategies of questionning to elicit a single's users preferences regarding many competing alternatives. More specifically, I extended a well-known strategy in a framework that could account for uncertainty in the user's answer. More details in the corresponding paper : <a href='https://plougue.github.io/documents/SUM_article.pdf'>[
 <img src='fontawesome-free-5.14.0-web/svgs/solid/book.svg' style="width:17px;height:17px;margin-right:3px;"/> Preference Elicitation with Uncertainty: Extending Regret Based Methods through Belief Functions, P.-L. Guillot and
 S. Destercke (2019)]</a>.
@@ -171,7 +172,7 @@ There is a github project for this but unfortunately it has to be private.
 </div>
 
 				<p class="sample-text">
-					<span class='link' onclick="toggleHidden('box_CompSci_matlab')"><b>Mathematical modelling using matlab</b></span> (2015-2019)<br/></p>
+					<span class='link' onclick="toggleHidden('box_CompSci_matlab')"><b>Mathematical modelling using matlab</b></span> (2015-2019) <span class="tech">[Matlab, Scilab]</span><br/></p>
 				<div class='project_box' id='box_CompSci_matlab'>
 <b>● Reconstructing a 3D scene from several images </b> : Several step process in a course that introduced many geometrical concepts for <b>image processing</b>. <br/>
 <b>● Modelling Stochastic processes</b> : Markov chains, poisson point processes, ... <br />
@@ -180,15 +181,15 @@ There is a github project for this but unfortunately it has to be private.
 <b>● Introduction to mathematical modelling</b> : To introduce the <b>numerical solving of differential equations</b> we modelled an animation of planets and pendulums with their corresponding <i>gravitational equations</i>. To introduce <b>fractal modelisation</b> we plotted fractals such as <i>sierpisnki carpet</i> and <i>triangle</i>, <i>koch snowflake</i> or even <i>menger sponge</i> using several methods (recursive drawing, IFS). To introduce <b>eigenvalues</b> we applied the power iteration algorithm to matrices and used it to apply google's <i>pagerank algorithm</i>. To introduce <b>singular value decomposition</b> we applied it to an <i>image compression problem</i> by taking only the most significant components in a vector of pixels.  To introduce <b>non-linear optimisation</b> we applied newton's method and the secant method to optimisations problems. To introduce <b>fourier decomposition</b> we tried to perform harmonic analysis on a recorded instrument's note.
 </div>
 				<p class="sample-text">
-				<b>Text-based Khan game and the corresponding AI in Prolog</b> <a href='https://github.com/plougue/Prolog-khan'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2017)<br/> </p>
+				<b>Text-based Khan game and the corresponding AI with logic programming</b> <a href='https://github.com/plougue/Prolog-khan'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2017) <span class="tech">[Prolog]</span> </p>
 				<div class='project_box'>Blablablabla
 </div>
 				<p class="sample-text">
-				<b>Symbollic AI algorithms with LISP</b> (2017)<br/> </p>
+				<b>Symbollic AI algorithms with functionnal programming</b> (2017) <span class="tech">[LISP]</span></p>
 				<div class='project_box'>Blablablabla
 </div>
 				<p class="sample-text">
-				<span class='link' onclick="toggleHidden('box_CompSci_caculator')"><b>Complete object oriented calculator w/ Qt GUI in C++</b></span>  <a href='https://github.com/plougue/Cpp-calculator'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2016)<br/> </p>
+				<span class='link' onclick="toggleHidden('box_CompSci_caculator')"><b>Complete object oriented calculator w/ GUI</b> </span>  <a href='https://github.com/plougue/Cpp-calculator'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2016) <span class="tech">[C++, Qt]</span> </p>
 				<div class='project_box' id='box_CompSci_caculator'>This projet was a way to practice <b>C++</b> and <b>OOP</b>. It consists in a Reverse Polish Notation calculator with the following features : <br />
 	● A stack of litterals on which to act with operators, dynamically managed so that you can use UNDO et REDO <br />
     ● A way to write expressions in their regular form (not reverse polish) and evaluate them <br />
@@ -204,19 +205,27 @@ Its structure is so that is it easy to add other features, and more specifically
 <h3 id='Personal'>
 				<img src='fontawesome-free-5.14.0-web/svgs/solid/rocket.svg' style="width:25px;height:25px;margin-right:20px;"/>Personal projects</h3>
 			<p class="sample-text">
-				<b>Discord bot</b> (2020)<br/> </p>
+				<span class='link' onclick="toggleHidden('box_Personal_codewars')"><b>Codewars coding challenges</b></span> <a href='https://github.com/plougue/codewars-challenges'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2020) <span class="tech">[C, C++, Python]</span><br/> </p>
+				<div class='project_box' id='box_Personal_codewars'>In order to keep my programming skills up to date I started doing small challenges on <a href='https://www.codewars.com/'>https://www.codewars.com/</a> using C, C++ and Python. <br />
+			Those challenges consisted in finding algorithmic solutions to small problems in a given language with various degrees of difficulty. If interested here are the ones I've currently solved : <a href = 'https://github.com/plougue/codewars-challenges'>https://github.com/plougue/codewars-challenges</a>.
+			Most interesting challenges included : <br />
+			● <b>Alphametics solver : </b> Replace letters by digits in equation so that they still hold, ie  "SEND + MORE = MONEY" becomes "9567 + 1085 = 10652". The challenge being not to explore all of the many (~10!) solutions.
+
+ </div>
+
+				<p class="sample-text"><b>Discord bot</b> (2020) <span class="tech">[NodeJS, JSon]</span><br/> </p>
 				<div class='project_box'>Blablablabla
 </div>
 			<p class="sample-text">
-				<b>Platforming game prototype using pygame</b> <a href='https://github.com/plougue/O_Platformer'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2018)</p>
+				<b>Platforming game prototype from scratch</b> <a href='https://github.com/plougue/O_Platformer'>(<img src='fontawesome-free-5.14.0-web/svgs/brands/github.svg' style="width:20px;height:20px;"/> github)</a> (2018) <span class="tech">[Python, Pygame]</span></p>
 				<div class='project_box'>Blablablabla
 </div>
 			<p class="sample-text">
-				<b>Various websites</b> (a long time ago)<br/> </p>
+				<b>Various websites</b> (a long time ago) <span class="tech">[HTML, CSS, PHP, MySQL]</span><br/> </p>
 				<div class='project_box'>Blablablabla
 </div>
 			<p class="sample-text">
-				<b>Browser-based game</b> (a long time ago)<br/> </p>
+				<b>Browser-based game</b> (a long time ago) <span class="tech">[HTML, CSS, PHP, MySQL]</span> </p>
 				<div class='project_box'>Blablablabla
 </div>
 
