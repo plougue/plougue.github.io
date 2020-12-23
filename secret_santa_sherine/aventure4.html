@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="style.css">
+<script>
+var failCounter = 0
+function toggleText() {
+  document.getElementById("secret_link").innerHTML = "ORDINATEUR DEBLOQUÉ, TRACKER LE MECHANT";
+}
+function toggleClue() {
+  document.getElementById("secret_clue").innerHTML = "h*rr*s*y**s";
+}
+function checkPassword() {
+  failCounter = failCounter + 1;
+  var password = document.getElementById("secret_password").value;
+  if(password == "harrystyles" || password == "harry styles") {
+	toggleText();
+  }
+  else if(failCounter > 3) {
+	toggleClue();
+  }
+}
+</script>
+</head>
+<body>
+<h1>L'aventure de noel de shé</h1>
+<br />
+<br />
+Demunie tu cherche une solution pour rattraper macron... <br>
+Heuresement tu te rappelles que tu as un tracker de mechant sur ton ordinateur
+<table>
+<td><img src="ordinateur.jpeg" style="witdh: 400px; height:400px;" /></td>
+<td class="texteOrdinateur">
+bip boup code informatique de l'ordinateur de sherine bip boup <br>
+veuillez entrer votre code secret pour debloquer le tracker de mechant <br>
+<input type="text" id="secret_password"> <input type="submit" id="secret_button" value="Essayer MDP" onclick="checkPassword()">
+<br>
+<span id="secret_clue"></span>
+<br>
+<a href="aventure5.html" id="secret_link"></a>
+
+</table>
+</body>

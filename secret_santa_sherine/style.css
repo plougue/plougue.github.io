@@ -1,0 +1,47 @@
+.texteMechant
+{
+	background-color: #014426;
+	border-style:inset; 
+	border-width:10px;
+	color: #E30022;
+}
+
+.texteOrdinateur
+{
+	background-color: black;
+	border-style:inset; 
+	border-width:10px;
+	color:green;
+}
+
+.texteGentil
+{
+	background-color: #014426;
+	border-style:inset; 
+	border-width:10px;
+	color:pink;
+}
+
+a
+{
+	color : #ffffff;
+}
+
+body
+{ 
+	color : white;
+	background-color: #014426;
+	background-image: url("background.jpeg");
+	font-size:25px;
+}
+
+h1
+{
+	color: #E30022;
+}
+
+h2
+{
+	color:pink;
+	font-size:50px;
+}
